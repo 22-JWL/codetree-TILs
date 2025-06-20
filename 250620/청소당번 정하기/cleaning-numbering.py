@@ -1,0 +1,7 @@
+n = int(input())
+a = int((n)/2)
+b = int((n)/3)
+c = int((n)/12)
+print(a-int(b/2), end=' ')
+print(b-c, end=' ')
+print(c, end=' ')
